@@ -1,0 +1,4 @@
+- [ ] Implement JS carousel
+- [ ] Build Next.JS Rest API for collection reports (phone, name, telegram)
+- [ ] Apache get started
+- [ ] Nginx get started
