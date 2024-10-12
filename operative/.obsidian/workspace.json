@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fd52d233246c34f2",
+        "id": "ea9b0beb2d35b673",
         "type": "tabs",
         "children": [
           {
-            "id": "aa97e2d25397a02d",
+            "id": "07fe1696f1de5122",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "should complete.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "should complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "should complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "should complete.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa97e2d25397a02d",
+  "active": "07fe1696f1de5122",
   "lastOpenFiles": [
+    "should complete.md",
     "task.md",
-    "Welcome.md",
-    "should complete.md"
+    "Welcome.md"
   ]
 }

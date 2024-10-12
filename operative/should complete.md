@@ -1,4 +1,5 @@
 - [ ] Implement JS carousel
+- [ ] Bitrix with HTML (to learn how to embed html in bitrix)
 - [ ] Build Next.JS Rest API for collection reports (phone, name, telegram)
 - [ ] Apache get started
 - [ ] Nginx get started
