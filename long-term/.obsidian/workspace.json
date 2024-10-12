@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "8c8e567173aeac1c",
+    "id": "37135d0e14a8a96c",
     "type": "split",
     "children": [
       {
-        "id": "fd52d233246c34f2",
+        "id": "172b0a7f48ff083b",
         "type": "tabs",
         "children": [
           {
-            "id": "aa97e2d25397a02d",
+            "id": "4456ce67a4d0e23b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "should complete.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e6e3c6c35cc8acf0",
+    "id": "0a17c7621fb60449",
     "type": "split",
     "children": [
       {
-        "id": "0cbe2f2cd0a14d56",
+        "id": "c24ca06dcbbb9f5e",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a8dfdb191e34e2",
+            "id": "4e0f2e45186b7ef7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "9c565ca64bf13357",
+            "id": "09396a9ddb7bedee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "8a1691da3f29a218",
+            "id": "220f08912b48687a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "0efe5e6b23b3f681",
+    "id": "01437a059b85b7a0",
     "type": "split",
     "children": [
       {
-        "id": "977f287ac9a45c09",
+        "id": "8c495cedd871ea7d",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe6a476594f9303",
+            "id": "c2a2875ac9117804",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "should complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "b5dd2ba9979ee1a6",
+            "id": "f98b0aea67e3d25b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "should complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "03d761fc990ebebd",
+            "id": "d0462f391296d7e6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "a85eb5b043e6e12a",
+            "id": "966b98fa0ad06e82",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "should complete.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa97e2d25397a02d",
+  "active": "4456ce67a4d0e23b",
   "lastOpenFiles": [
-    "task.md",
     "Welcome.md",
-    "should complete.md"
+    "Goals.md"
   ]
 }
