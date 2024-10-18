@@ -1,4 +1,7 @@
-- [ ] Implement JS carousel
+- [x] Implement JS carousel
+- [x] Magmafellow Profile | Add a blog post
+- [x] Make full - tags proper adding | Magmafellow Profile | add a blog post 
+- [ ] Add auth protect upon /blog/add
 - [ ] Bitrix with HTML (to learn how to embed html in bitrix)
 - [ ] Implement robust and generic Popup
 - [ ] Build Next.JS Rest API for collection reports (phone, name, telegram)
